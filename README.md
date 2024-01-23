@@ -20,3 +20,18 @@ mysql -h localhost -u root
 
 ##-u##
 é o usuario
+
+##show databases##
+mostram o banco de dados
+
+##create table##
+create table criar tabela banco de dados
+
+##desc##
+nome da tabela
+
+##show table##
+exibe a tabelas
+
+##drop##
+exclui o banco de dados
