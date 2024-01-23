@@ -10,3 +10,13 @@ sistema *gerenciador* de
 coluna ou entidade
 
 linha, tupla ou registro
+
+# trabalhando com mysql
+##conectando##
+mysql -h localhost -u root
+
+##-h##
+é o computador
+
+##-u##
+é o usuario
